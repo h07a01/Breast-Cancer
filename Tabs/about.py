@@ -10,7 +10,5 @@ def app():
     st.balloons()
     st.title('Contact Us')
     st.markdown('''### Name:
-    Mainak Chaudhuri''')
-    st.image("./images/icon.jpg")
-    st.markdown('''### GitHub: [Mainak](https://github.com/MainakRepositor/)''')
+    Harsh Anand''')
     
